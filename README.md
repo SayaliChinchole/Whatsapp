@@ -7,5 +7,4 @@ Only frontend is completed.
 
 No backend implementation.
 
-
-![screenshot](whatsapp-mern/images/Screenshot whatsapp clone.png)
+<img src="whatsapp-mern/images/Screenshot whatsapp clone.png">
